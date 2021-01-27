@@ -1,7 +1,7 @@
 ### Hi there, I'm Ken - aka [Neo-Ken-Dev][website] 👋
 
-[![Website](https://img.shields.io/badge/ken--l.fr-Go-green)](https://codestackr.com)
-[![linkedin](https://img.shields.io/badge/Linkedin-Go-green)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/badge/ken--l.fr-Go-green)](http://ken-l.fr/)
+[![linkedin](https://img.shields.io/badge/Linkedin-Go-green)](https://www.linkedin.com/in/ken-lemonnier/)
 
 ## I'm a new Developer, and love it!!
 
