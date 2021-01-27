@@ -18,17 +18,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="http://ken-l.fr/css/html5.png" />
+<img align="left" alt="HTML5" width="40px" src="http://ken-l.fr/css/html5.png" />
 
-<img align="left" alt="CSS3" width="26px" src="http://ken-l.fr/css/css3.png" />
+<img align="left" alt="CSS3" width="40px" src="http://ken-l.fr/css/css3.png" />
 
-<img align="left" alt="bootstrap" width="26px" src="http://ken-l.fr/css/bootstrap.png" />
+<img align="left" alt="bootstrap" width="40px" src="http://ken-l.fr/css/bootstrap.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="http://ken-l.fr/css/javascript.png" />
+<img align="left" alt="JavaScript" width="40px" src="http://ken-l.fr/css/javascript.png" />
 
-<img align="left" alt="Angular" width="26px" src="http://ken-l.fr/css/angular.png" />
+<img align="left" alt="Angular" width="40px" src="http://ken-l.fr/css/angular.png" />
 
-<img align="left" alt="Node.js" width="26px" src="http://ken-l.fr/css/node-js.png" />
+<img align="left" alt="Node.js" width="40px" src="http://ken-l.fr/css/node-js.png" />
 
 <img align="left" alt="php" width="26px" src="http://ken-l.fr/css/php.png" />
 
