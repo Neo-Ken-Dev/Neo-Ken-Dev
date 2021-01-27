@@ -28,6 +28,8 @@
 
 <img align="left" alt="Angular" width="40px" src="http://ken-l.fr/css/angular.png" />
 
+<img align="left" alt="jquery" width="40px" src="http://ken-l.fr/css/jquery.png" />
+
 <img align="left" alt="Node.js" width="40px" src="http://ken-l.fr/css/node-js.png" />
 
 <img align="left" alt="php" width="40px" src="http://ken-l.fr/css/php.png" />
