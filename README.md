@@ -30,22 +30,22 @@
 
 <img align="left" alt="Node.js" width="40px" src="http://ken-l.fr/css/node-js.png" />
 
-<img align="left" alt="php" width="26px" src="http://ken-l.fr/css/php.png" />
+<img align="left" alt="php" width="40px" src="http://ken-l.fr/css/php.png" />
 
-<img align="left" alt="symfony" width="26px" src="http://ken-l.fr/css/symfony.png" />
+<img align="left" alt="symfony" width="40px" src="http://ken-l.fr/css/symfony.png" />
 
-<img align="left" alt="java" width="26px" src="http://ken-l.fr/css/java.png" />
+<img align="left" alt="java" width="40px" src="http://ken-l.fr/css/java.png" />
 
 
-<img align="left" alt="SQL" width="26px" src="http://ken-l.fr/css/sqlServer.png" />
+<img align="left" alt="SQL" width="40px" src="http://ken-l.fr/css/sqlServer.png" />
 
-<img align="left" alt="MySQL" width="26px" src="http://ken-l.fr/css/mysql.png" />
+<img align="left" alt="MySQL" width="40px" src="http://ken-l.fr/css/mysql.png" />
 
-<img align="left" alt="SQL Oracle" width="26px" src="http://ken-l.fr/css/sqlOracle.png" />
+<img align="left" alt="SQL Oracle" width="40px" src="http://ken-l.fr/css/sqlOracle.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
 <br />
