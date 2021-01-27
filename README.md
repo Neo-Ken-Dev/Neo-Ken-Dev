@@ -20,20 +20,28 @@
 
 <img align="left" alt="HTML5" width="26px" src="http://ken-l.fr/css/html5.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="26px" src="http://ken-l.fr/css/css3.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="bootstrap" width="26px" src="http://ken-l.fr/css/bootstrap.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="JavaScript" width="26px" src="http://ken-l.fr/css/javascript.png" />
 
-<img align="left" alt="java" width="26px" src="https://iconscout.com/icon/java-60" />
+<img align="left" alt="Angular" width="26px" src="http://ken-l.fr/css/angular.png" />
 
-<img align="left" alt="jquery" width="26px" src="http://ken-l.fr/css/html5.png" />
+<img align="left" alt="Node.js" width="26px" src="http://ken-l.fr/css/node-js.png" />
+
+<img align="left" alt="php" width="26px" src="http://ken-l.fr/css/php.png" />
+
+<img align="left" alt="symfony" width="26px" src="http://ken-l.fr/css/symfony.png" />
+
+<img align="left" alt="java" width="26px" src="http://ken-l.fr/css/java.png" />
 
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="26px" src="http://ken-l.fr/css/sqlServer.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="http://ken-l.fr/css/mysql.png" />
+
+<img align="left" alt="SQL Oracle" width="26px" src="http://ken-l.fr/css/sqlOracle.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
