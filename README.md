@@ -39,6 +39,7 @@
 <img align="left" alt="java" width="40px" src="http://ken-l.fr/css/java.png" />
 
 <br />
+<br />
 
 <img align="left" alt="SQL" width="40px" src="http://ken-l.fr/css/sqlServer.png" />
 
